@@ -1,0 +1,24 @@
+2024-09-10 19:50:30 [scrapy.core.engine] INFO: Closing spider (finished)
+2024-09-10 19:50:30 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 659896,
+ 'downloader/request_count': 1017,
+ 'downloader/request_method_count/GET': 1017,
+ 'downloader/response_bytes': 55697044,
+ 'downloader/response_count': 1017,
+ 'downloader/response_status_count/200': 1017,
+ 'elapsed_time_seconds': 625.53305,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2024, 9, 10, 16, 50, 30, 371742, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 427361531,
+ 'httpcompression/response_count': 1017,
+ 'item_scraped_count': 1000,
+ 'log_count/DEBUG': 2019,
+ 'log_count/INFO': 20,
+ 'request_depth_max': 17,
+ 'response_received_count': 1017,
+ 'scheduler/dequeued': 1017,
+ 'scheduler/dequeued/memory': 1017,
+ 'scheduler/enqueued': 1017,
+ 'scheduler/enqueued/memory': 1017,
+ 'start_time': datetime.datetime(2024, 9, 10, 16, 40, 4, 838692, tzinfo=datetime.timezone.utc)}
+2024-09-10 19:50:30 [scrapy.core.engine] INFO: Spider closed (finished)
